@@ -43,6 +43,14 @@
 ![](./images/addUser2AdminsGroupLarge.gif)
 
 ---
+
+5.  Verify that your user is part of group `Admins`
+
+*  the previous step will appear to error out but that is a permission screen issue only
+
+![](./images/verifyUserGroupLarge.gif)
+
+---
 ---
 
 ####  Return to setup steps:  [Creating your IAM roles from terraform](https://github.com/tlepple/horizon-public/blob/master/aws_readme.md)
