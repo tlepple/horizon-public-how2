@@ -65,7 +65,7 @@
 
 ![](./images/LogsEnvSettings.png)
 
-![](./images/dataAccessSettings.png)
+![](./images/dataAccessEnvSettings.png)
 ---
 
 6.  Create a Key Pair in the EC2 Service
