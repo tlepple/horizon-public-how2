@@ -22,6 +22,8 @@
 
 2.  Create an AWS User:
 
+*  Make sure that the user name is only created in lower case
+
 ---
 
 ![](./images/createUserLarge.gif)
