@@ -13,14 +13,24 @@
 
 1.  Navigate to the AWS service `IAM`:
 
+---
+
 ![](./images/nav2usersLarge.gif)
+
+---
 
 
 2.  Create an AWS User:
 
+---
+
 ![](./images/createUserLarge.gif)
 
+---
+
 3. Save user credentials to your computer.
+
+---
 
 ![](./images/saveCredLarge.gif)
 
