@@ -53,9 +53,9 @@
 
 ---
 
-4.  Add new user to the `Admins` group
+4. Complete the screen for `Data Lake Settings`
 
-![](./images/addUser2AdminsGroupLarge.gif)
+![](./images/dataLakeSettings.png)
 
 ---
 
