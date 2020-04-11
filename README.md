@@ -8,6 +8,9 @@
 *  The below videos were recorded in 30 second segments to keep file sizes small (a requirement from github).
 *  Follow the instructions in order.
 
+---
+---
+
 1.  Navigate to the AWS service `IAM`:
 
 ![](./images/nav2usersLarge.gif)
