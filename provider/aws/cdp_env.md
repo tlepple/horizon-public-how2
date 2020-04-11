@@ -13,8 +13,8 @@
 
 1.  Navigate to the CDP Sandbox Management Console and click the blue button `Register Environment`:
 
-*  Environment Name --> `zzuser-01`
-*  Credential Name  --> `zzuser-sandbox-cred`
+*  Environment Name --> `<your-owner-name>-01`
+*  Credential Name  --> `<your-owner-name>-sandbox-cred`
 
 ---
 
@@ -25,7 +25,7 @@
 
 2.  Copy the JSON for the `Create Cross-account Access Policy` and open AWS console in IAM Service and create a new policy:
 
-*  Cross Account Policy Name -->  `zzuser-crossaccount-policy`
+*  Cross Account Policy Name -->  `<your-owner-name>-crossaccount-policy`
 
 ---
 
@@ -47,23 +47,21 @@
 
 ---
 
-    C.  Associate the `zzuser-crossaccount-role ARN` in the CDP Console
+    C.  Associate the `<your-owner-name>-crossaccount-role ARN` in the CDP Console
 
 ![](./images/createCDPcred-2.gif)
 
 ---
 
-4. Complete the screen for `Data Lake Settings`
+4. Complete the screen for `Data Lake Settings` and click the `Next` button.
 
 ![](./images/dataLakeSettings.png)
 
 ---
 
-5.  Verify that your user is part of group `Admins`
+5. Complete the CDP Environment settings for `Region, Networking, Security and Storage` 
 
-*  the previous step will appear to error out but that is a permission screen issue only
-
-![](./images/verifyUserGroupLarge.gif)
+![](./images/cdpEnvStep3a.png)
 
 ---
 
