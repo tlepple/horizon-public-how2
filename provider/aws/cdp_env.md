@@ -23,13 +23,13 @@
 ---
 
 
-2.  Create an AWS User:
+2.  Copy the JSON for the `Create Cross-account Access Policy` and open AWS console in IAM Service and create a new policy:
 
-*  Make sure that the user name is only created in lower case
+*  Cross Account Policy Name -->  `zzuser-crossaccount-policy`
 
 ---
 
-![](./images/createUserLarge.gif)
+![](./images/createXactPolicy.gif)
 
 ---
 
