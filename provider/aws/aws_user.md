@@ -51,6 +51,12 @@
 ![](./images/verifyUserGroupLarge.gif)
 
 ---
+
+6.  Create a Key Pair in the EC2 Service
+
+![](./images/createKPlarge.gif)
+
+---
 ---
 
 ####  Return to setup steps:  [Creating your IAM roles from terraform](https://github.com/tlepple/horizon-public/blob/master/aws_readme.md)
