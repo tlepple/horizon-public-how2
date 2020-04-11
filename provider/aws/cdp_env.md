@@ -43,6 +43,7 @@
 ---
     B.  Associate the Crossaccount Role to the Crossaccount Policy
 
+![](./images/createXactRole-2.gif)
 
 ---
 
