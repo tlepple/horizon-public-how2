@@ -61,7 +61,7 @@
 
 5. Complete the CDP Environment settings for `Region, Networking, Security and Storage` 
 
-![](./images/cdpEnvStep3a.png)
+![](./images/cdpEnvStep-3a.png)
 
 ---
 
