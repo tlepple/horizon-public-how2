@@ -11,5 +11,5 @@
 
 ![](./images/createUser.mp4)
 
-![](./images/createUsersmall.gif)
+![](./images/createUsersSmall.gif)
 
