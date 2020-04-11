@@ -47,6 +47,12 @@
 
 ---
 
+    C.  Associate the `zzuser-crossaccount-role ARN` in the CDP Console
+
+![](./images/createCDPcred-2.gif)
+
+---
+
 4.  Add new user to the `Admins` group
 
 ![](./images/addUser2AdminsGroupLarge.gif)
