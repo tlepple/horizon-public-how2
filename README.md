@@ -6,10 +6,14 @@
 
 ![](./images/nav2usersSmall.gif)
 
+![](./images/nav2usersLarge.gif)
+
 
 ###  Create User
 
 ![](./images/createUser.mp4)
 
 ![](./images/createUserSmall.gif)
+
+![](./images/createUserLarge.gif)
 
