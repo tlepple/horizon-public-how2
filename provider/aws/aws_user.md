@@ -37,6 +37,12 @@
 ![](./images/saveCredLarge.gif)
 
 ---
+
+4.  Add new user to the `Admins` group
+
+![](./images/addUser2AdminsGroupLarge.gif)
+
+---
 ---
 
 ####  Return to setup steps:  [Creating your IAM roles from terraform](https://github.com/tlepple/horizon-public/blob/master/aws_readme.md)
