@@ -68,12 +68,11 @@
 ![](./images/dataAccessEnvSettings.png)
 ---
 
-6.  Create a Key Pair in the EC2 Service
+6.  To complete the setup click the `Register Environment` button
 
-![](./images/createKPlarge.gif)
-
+*  This step will take about 40 minutes if all goes smoothly...
 ---
 ---
 
-####  Return to setup steps:  [Creating your IAM roles from terraform](https://github.com/tlepple/horizon-public/blob/master/aws_readme.md)
+#### Next Steps Here... 
 
