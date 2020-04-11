@@ -63,6 +63,9 @@
 
 ![](./images/cdpEnvStep-3a.png)
 
+![](./images/LogsEnvSettings.png)
+
+![](./images/dataAccessSettings.png)
 ---
 
 6.  Create a Key Pair in the EC2 Service
