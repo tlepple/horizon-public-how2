@@ -33,11 +33,16 @@
 
 ---
 
-3. Save user credentials to your computer.
+3. Copy the `Service Manager Account ID` for the `Create Cross-account Access Role` from the CDP Console and open AWS console in IAM service and create a new role: 
 
 ---
+    A.  Create the Crossaccount Role
 
-![](./images/saveCredLarge.gif)
+![](./images/createXactRole-1.gif)
+
+---
+    B.  Associate the Crossaccount Role to the Crossaccount Policy
+
 
 ---
 
