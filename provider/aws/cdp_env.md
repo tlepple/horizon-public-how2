@@ -75,6 +75,12 @@
 
 ---
 
+*  A successful build will look like this:
+
+![](./images/runningEnv.png)
+
+---
+
 7. Create Admin group in CDP Console and associate to your enviroments
 
 *  CDP Sandbox --> Management Console --> User Management --> Groups --> Create Group
