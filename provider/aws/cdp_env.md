@@ -134,7 +134,7 @@
 ---
 ---
 
-####  Return to Docker steps:  [Begin Here:](https://github.com/tlepple/horizon-public/blob/master/aws_readme.md)
+####  Return to Docker steps:  [Begin Here:](https://github.com/tlepple/horizon-public)
 
 ---
 ---
