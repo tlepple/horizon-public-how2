@@ -123,3 +123,8 @@
 *  If you are done with the Env, please delete it.
 *  They will reap these Environments every week.
 
+---
+
+####  Return to Docker steps:  [Begin Here:](https://github.com/tlepple/horizon-public/blob/master/aws_readme.md)
+
+---
