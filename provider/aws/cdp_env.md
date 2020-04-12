@@ -71,6 +71,7 @@
 6.  To complete the setup click the `Register Environment` button
 
 *  This step will take about 40 minutes if all goes smoothly...
+*  You can follow the status from the CDP Console Managment Console --> Environments
 
 ---
 
@@ -93,5 +94,10 @@
 ---
 ---
 
-#### Next Steps Here... 
+#  Import Note to keep our cloud costs under control.
+
+*  ** Do NOT leave your Environment running over night**
+*  You can shut it down from the `Actions` Menu.
+*  If you are done with the Env, please delete it.
+*  They will reap these Enviroments every week.
 
