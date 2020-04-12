@@ -82,6 +82,15 @@
 ![](./images/createAdminGroup.png)
 
 ---
+
+8.  Add your user name as a member of this group as well as  user `etl user user` 
+
+*  The `Members` in the list were populated from your `Okta Credentials`
+*  For a customer this would be integrated with their AD or LDAP system.
+
+![](./images/addUser2Admin.png)
+
+---
 ---
 
 #### Next Steps Here... 
