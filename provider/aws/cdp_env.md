@@ -98,6 +98,14 @@
 ![](./images/addUser2Admin.png)
 
 ---
+---
+
+#  Your Environment is now complete...
+
+* You can Activate your Data Warehouse env next.
+
+---
+---
 
 9.  Activating a Data Warehouse Experience.
 
@@ -124,7 +132,9 @@
 *  They will reap these Environments every week.
 
 ---
+---
 
 ####  Return to Docker steps:  [Begin Here:](https://github.com/tlepple/horizon-public/blob/master/aws_readme.md)
 
+---
 ---
