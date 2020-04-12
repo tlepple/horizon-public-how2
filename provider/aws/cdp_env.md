@@ -81,7 +81,7 @@
 
 ---
 
-7. Create Admin group in CDP Console and associate to your environments
+7. Create Admin group in CDP Console and add users to this group
 
 *  CDP Sandbox --> Management Console --> User Management --> Groups --> Create Group
 *  Create the group with the name `cdp_<your env name>`  ie. `cdp_zzuser-01`.  Uncheck `Sync Membership`
