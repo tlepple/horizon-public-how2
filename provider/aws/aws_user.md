@@ -40,13 +40,13 @@
 
 4.  Add new user to the `Admins` group
 
+*  This step will appear to fail.  The root cause is that we do not have the IAM Permission to list users part of the group `Admins`
+
 ![](./images/addUser2AdminsGroupLarge.gif)
 
 ---
 
 5.  Verify that your user is part of group `Admins`
-
-*  the previous step will appear to error out but that is a permission screen issue only
 
 ![](./images/verifyUserGroupLarge.gif)
 
