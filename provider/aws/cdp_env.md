@@ -115,7 +115,7 @@
 ---
 ---
 
-#  Import Note to keep our cloud costs under control.
+#  Important note to keep our cloud costs under control.
 
 **Do NOT leave your Environment running over night**
 
