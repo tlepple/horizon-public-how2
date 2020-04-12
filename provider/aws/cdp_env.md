@@ -98,6 +98,21 @@
 ![](./images/addUser2Admin.png)
 
 ---
+
+9.  Activating a Data Warehouse Experience.
+
+*  Navigate to the `Cloudera Data Warehouse Experience` console, find your environment and `Activate` it.
+*  This step could take up to 30 minutes to complete.
+
+![](./images/activateDWenv.gif)
+
+---
+
+*  A Running environment will look like this:
+
+![](./images/runningDWenv.png)
+
+---
 ---
 
 #  Import Note to keep our cloud costs under control.
