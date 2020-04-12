@@ -71,6 +71,16 @@
 6.  To complete the setup click the `Register Environment` button
 
 *  This step will take about 40 minutes if all goes smoothly...
+
+---
+
+7. Create Admin group in CDP Console and associate to your enviroments
+
+*  CDP Sandbox --> Management Console --> User Management --> Groups --> Create Group
+*  Create the group with the name `cdp_<your env name>`  ie. `cdp_zzuser-01`.  Uncheck `Sync Membership`
+
+![](./images/createAdminGroup.png)
+
 ---
 ---
 
