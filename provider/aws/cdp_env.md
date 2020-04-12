@@ -96,7 +96,7 @@
 
 #  Import Note to keep our cloud costs under control.
 
-** Do NOT leave your Environment running over night**
+**Do NOT leave your Environment running over night**
 
 *  You can shut it down from the `Actions` menu.
 *  If you are done with the Env, please delete it.
