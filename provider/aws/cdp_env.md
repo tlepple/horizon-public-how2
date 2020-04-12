@@ -86,7 +86,7 @@
 *  CDP Sandbox --> Management Console --> User Management --> Groups --> Create Group
 *  Create the group with the name `cdp_<your env name>`  ie. `cdp_zzuser-01`.  Uncheck `Sync Membership`
 
-![](./images/createAdminGroup.png)
+![](./images/createAdminGroup2.png)
 
 ---
 
